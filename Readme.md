@@ -42,3 +42,7 @@ haproxy.sh
 - https://shadowsocks.be/10.html
 
 Copyright (C) 2014-2018 Teddysun
+
+
+Good solution look here:
+https://www.tipsforchina.com/how-to-setup-a-fast-shadowsocks-server-on-vultr-vps-the-easy-way.html 
